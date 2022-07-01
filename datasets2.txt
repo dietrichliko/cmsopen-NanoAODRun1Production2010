@@ -1,0 +1,7 @@
+/Mu/Run2010A-Apr21ReReco-v1/AOD
+/Mu/Run2010B-Apr21ReReco-v1/AOD
+/MuOnia/Run2010A-Apr21ReReco-v1/AOD
+/MuOnia/Run2010B-Apr21ReReco-v1/AOD
+/EG/Run2010A-Apr21ReReco-v1/AOD
+/Electron/Run2010B-Apr21ReReco-v1/AOD
+/Jet/Run2010B-Apr21ReReco-v1/AOD

@@ -1,0 +1,2 @@
+/Mu/Run2010A-Apr21ReReco-v1/AOD
+/Mu/Run2010B-Apr21ReReco-v1/AOD
